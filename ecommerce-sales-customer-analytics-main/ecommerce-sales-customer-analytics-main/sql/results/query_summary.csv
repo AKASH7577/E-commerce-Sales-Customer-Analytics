@@ -1,0 +1,12 @@
+QueryNumber,Title,RowsReturned,ResultFile
+1,Total revenue,1,sql\results\query_01.csv
+2,"Total orders, customers, and units",1,sql\results\query_02.csv
+3,Monthly revenue and orders,13,sql\results\query_03.csv
+4,Top products by revenue,10,sql\results\query_04.csv
+5,Revenue and average order value by country,38,sql\results\query_05.csv
+6,Top customers by revenue,20,sql\results\query_06.csv
+7,Overall average order value using an order-level CTE,1,sql\results\query_07.csv
+8,Repeat versus one-time customers,2,sql\results\query_08.csv
+9,Product revenue ranking with a window function,20,sql\results\query_09.csv
+10,Customer revenue ranking and share of revenue,4338,sql\results\query_10.csv
+11,RFM-style segment summary. customer_metrics is created by the notebook.,4,sql\results\query_11.csv
